@@ -1,0 +1,11 @@
+image_name,stem_area_px,num_detections,anthracnose_area_px,stemrot_area_px,canker_area_px,anthracnose_pct,stemrot_pct,canker_pct,total_infection_pct,severity_index,severity_label
+val_0000.jpg,355770,1,10445,0,0,2.9359,0.0,0.0,2.9359,2.9359,Healthy
+val_0001.jpg,398929,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Healthy
+val_0002.jpg,391732,7,6803,0,0,1.7366,0.0,0.0,1.7366,1.7366,Healthy
+val_0003.jpg,310992,1,15034,0,0,4.8342,0.0,0.0,4.8342,4.8342,Healthy
+val_0004.jpg,404192,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Healthy
+val_0005.jpg,374657,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Healthy
+val_0006.jpg,386943,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Healthy
+val_0007.jpg,371273,9,6841,0,0,1.8426,0.0,0.0,1.8426,1.8426,Healthy
+val_0008.jpg,402995,0,0,0,0,0.0,0.0,0.0,0.0,0.0,Healthy
+val_0009.jpg,398469,6,3987,0,0,1.0006,0.0,0.0,1.0006,1.0006,Healthy
