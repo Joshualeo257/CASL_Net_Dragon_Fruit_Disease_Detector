@@ -1,0 +1,25 @@
+# Configuration file for CASL-Net
+
+dataset:
+  path: dataset/
+  train_split: 0.8
+  val_split: 0.2
+
+models:
+  yolo:
+    model: yolov8n
+    epochs: 100
+    batch_size: 16
+    patience: 20
+  
+  efficientnet:
+    model: efficientnet-b3
+    num_classes: 4
+
+sam:
+  model_type: vit_h
+  checkpoint: sam_vit_h_4b8939.pth
+
+inference:
+  conf_threshold: 0.5
+  iou_threshold: 0.45
